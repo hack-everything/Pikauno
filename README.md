@@ -1,6 +1,6 @@
 # The Pikauno
 
-### A simple and cute project, designed by me and Xieshi Zhang, and sponsored by [JLCPCB])(https://jlcpcb.com)
+### A simple and cute project, designed by me and Xieshi Zhang, and sponsored by [JLCPCB](https://jlcpcb.com)
 
 
 The Pikauno is a small Pikachu/Pokemon themed badge, based off a [Arduino](https://arduino.cc) Nano, its one of the first "Pikachu Arduinos" in its existence (a simple google search provided nothing similar).
