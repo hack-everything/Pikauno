@@ -24,6 +24,11 @@ The ATMEGA328P-AU's specs are:
     - SRAM (B) 2,048
     - Data EEPROM/HEF (bytes) 1024
 
+# HATs! 
+
+HATs are pretty much custom Arduino shields. They attach on top of the ears. Currently, a music hat, a 'gaming' hat and others are in development.
+
+These HATs will be shaped like hats! Some like a detective hat, baseball cap, etc.
 
 # Our sponsor:
 
