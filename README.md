@@ -27,7 +27,7 @@ The ATMEGA328P-AU's specs are:
 
 # Our sponsor:
 
-#### This project is gracisouly sponsored by [JLCPCB])(https://jlcpcb.com). Order a 2 layer PCB for $2 at [jlcpcb.com/order])(https://jlcpcb.com/order)
+#### This project is gracisouly sponsored by [JLCPCB](https://jlcpcb.com). Order a 2 layer PCB for $2 at [jlcpcb.com/order](https://jlcpcb.com/order)
 
 # Images:
 
