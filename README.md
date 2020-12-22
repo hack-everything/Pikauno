@@ -13,7 +13,7 @@ The Pikauno is a small Pikachu/Pokemon themed badge, based off the [Arduino](htt
   - Micro-USB for power and programming
   - 3 buttons (2 'programmable', 1 reset) 
   - MPU6050 (3-axis accelerometer / gyroscope)
-  - HAT compatiible! (click [here] to learn more.
+  - HAT compatiible! (click [here](https://github.com/hack-everything/Pikauno/blob/main/README.md#hats) to learn more.
   - 2 Yellow power LEDs on top of ears and 2 'underglow' LEDs on the back
 
 
