@@ -1,4 +1,4 @@
-# The Pikauno
+# The Pikaduino
 
 ### A simple and cute project, designed by me and Xieshi Zhang, and sponsored by [JLCPCB](https://jlcpcb.com)
 
